@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-10T12:14:07 IST" name="Suite" finished-at="2024-05-10T12:14:07 IST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2024-05-10T12:14:07 IST" name="TestModule1" finished-at="2024-05-10T12:14:07 IST" duration-ms="41">
+      <class name="testschecks.DataProviderTc">
+        <test-method signature="checkingTakingScreenshots()[pri:0, instance:testschecks.DataProviderTc@52e6fdee]" started-at="2024-05-10T12:14:07 IST" name="checkingTakingScreenshots" finished-at="2024-05-10T12:14:07 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingTakingScreenshots -->
+        <test-method signature="dataProviderTestCase(java.lang.String,int)[pri:0, instance:testschecks.DataProviderTc@52e6fdee]" started-at="2024-05-10T12:14:07 IST" name="dataProviderTestCase" data-provider="getdata" finished-at="2024-05-10T12:14:07 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tukaram1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderTestCase -->
+        <test-method signature="dataProviderTestCase(java.lang.String,int)[pri:0, instance:testschecks.DataProviderTc@52e6fdee]" started-at="2024-05-10T12:14:07 IST" name="dataProviderTestCase" data-provider="getdata" finished-at="2024-05-10T12:14:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tukaram3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderTestCase -->
+        <test-method signature="dataProviderTestCase(java.lang.String,int)[pri:0, instance:testschecks.DataProviderTc@52e6fdee]" started-at="2024-05-10T12:14:07 IST" name="dataProviderTestCase" data-provider="getdata" finished-at="2024-05-10T12:14:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tukaram2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderTestCase -->
+      </class> <!-- testschecks.DataProviderTc -->
+    </test> <!-- TestModule1 -->
+  </suite> <!-- Suite -->
+</testng-results>
